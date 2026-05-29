@@ -2,7 +2,7 @@
 
 **Foodies** is a responsive Next.js starter project for browsing meals, sharing recipes, and joining a food-loving community.
 
-This version includes a visual refresh and improved responsive styling using CSS only. No application logic or JavaScript behavior was changed.
+.
 
 ## What’s included
 
