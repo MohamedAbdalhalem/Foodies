@@ -1,17 +1,17 @@
-﻿# Foodies
+# Foodies
 
 **Foodies** is a responsive Next.js starter project for browsing meals, sharing recipes, and joining a food-loving community.
 
 .
 
-## What’s included
+## Features
 
-- polished **landing layout** with hero, slideshow, and call-to-action buttons
-- responsive **meals grid** and **meal cards** for small and large screens
-- refined **detail page** presentation for recipe content
-- improved **community perks** section with modern spacing and card styling
-- updated **share meal form** with better form layout, field spacing, and responsive controls
-- consistent **global theme** with modern dark surface, gradients, and smooth typography
+- **Landing page experience** — hero section with slideshow and clear navigation to community and meals pages
+- **Community engagement** — dedicated community page highlighting recipe sharing, social connections, and events
+- **Meals browsing** — responsive meals grid with easy discovery of available recipes
+- **Recipe detail view** — individual meal pages showing creator details, summary, and instructions
+- **Recipe sharing form** — submit your favorite meals via a dedicated share recipe page
+- **Responsive styling** — consistent CSS Modules-based styling for mobile and desktop layouts
 
 ## Getting started
 
